@@ -1,4 +1,4 @@
-#/usr/bin/python
+#!/usr/bin/env python3
 #num%10 == 7 or num%7 == 0
 
 
