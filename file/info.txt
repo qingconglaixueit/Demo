@@ -1,0 +1,3 @@
+zhangsan	18	nan
+lisi		18	nv
+wanwger		18	nan
